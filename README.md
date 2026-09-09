@@ -61,16 +61,15 @@ Optional: add **Root Directory** if the app lives in a subfolder of the repo.
 
 ### GitHub Pages
 
-This project deploys as a **static export** to:
-
-**https://adityathakur2011.github.io/charucare-static/**
+Live site: **https://charucare.com**
 
 1. **Repo Settings** → **Pages** → **Source**: **GitHub Actions**
-2. Push to `main` (or run **Actions → Deploy Next.js to GitHub Pages → Run workflow**)
-3. Wait for the green checkmark; the site is served from the `out` folder
+2. Set custom domain to `charucare.com` (DNS CNAME/A records at your registrar)
+3. Push to `main` (or run the deploy workflow)
 
-`next.config.ts` sets `basePath` / `assetPrefix` to `/charucare-static` for this project-pages URL. Locally, open **http://localhost:3000/charucare-static** after `npm run dev`.
+`public/CNAME` is set to `charucare.com`. Assets are served from the domain root (no `basePath`), so styling works on the custom domain.
 
+The GitHub project URL may redirect to the custom domain once DNS is configured.
 ### Netlify
 
 1. Push the repo to your Git provider.

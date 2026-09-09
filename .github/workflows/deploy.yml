@@ -34,7 +34,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          NEXT_PUBLIC_SITE_URL: https://adityathakur2011.github.io/charucare-static
+          NEXT_PUBLIC_SITE_URL: https://charucare.com
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
