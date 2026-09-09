@@ -2,9 +2,9 @@ import type { MetadataRoute } from "next";
 
 export const dynamic = "force-static";
 
-/** Set NEXT_PUBLIC_SITE_URL in env for production. Used at build time (static-compatible). */
 const BASE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://charucare.com";
+  process.env.NEXT_PUBLIC_SITE_URL ||
+  "https://adityathakur2011.github.io/charucare-static";
 
 export default function robots(): MetadataRoute.Robots {
   return {

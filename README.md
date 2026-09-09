@@ -59,18 +59,17 @@ All copy and structured content lives in **`src/content/siteContent.ts`**. Edit 
 
 Optional: add **Root Directory** if the app lives in a subfolder of the repo.
 
-### GitHub Pages (custom domain)
+### GitHub Pages
 
-This project is set up for **GitHub Pages with a custom domain**:
+This project deploys as a **static export** to:
 
-1. **Repo Settings** → **Pages** → **Source**: GitHub Actions.
-2. **Custom domain**: Add your domain in the Custom domain field and save.
-3. **DNS** (at your domain registrar): Add records:
-   - **A**: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
-   - **CNAME** (optional): `www` → `yourusername.github.io`
-4. Push to `main`; the workflow builds and deploys the `out` folder. The `public/CNAME` file is included so GitHub Pages serves at your custom domain.
+**https://adityathakur2011.github.io/charucare-static/**
 
-See [GitHub Pages custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
+1. **Repo Settings** → **Pages** → **Source**: **GitHub Actions**
+2. Push to `main` (or run **Actions → Deploy Next.js to GitHub Pages → Run workflow**)
+3. Wait for the green checkmark; the site is served from the `out` folder
+
+`next.config.ts` sets `basePath` / `assetPrefix` to `/charucare-static` for this project-pages URL. Locally, open **http://localhost:3000/charucare-static** after `npm run dev`.
 
 ### Netlify
 

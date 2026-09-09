@@ -19,7 +19,9 @@ const instrument = Instrument_Serif({
   display: "swap",
 });
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://charucare.com";
+const BASE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ||
+  "https://adityathakur2011.github.io/charucare-static";
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
