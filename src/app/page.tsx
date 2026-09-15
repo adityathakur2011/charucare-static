@@ -5,6 +5,7 @@ import { DashboardPreview } from "@/components/landing/DashboardPreview";
 import { AudienceGrid } from "@/components/landing/AudienceGrid";
 import { ProcessSteps } from "@/components/landing/ProcessSteps";
 import { RecordHighlight } from "@/components/landing/RecordHighlight";
+import { VideosSection } from "@/components/landing/VideosSection";
 import { MissionValues } from "@/components/landing/MissionValues";
 import { FaqTestimonials } from "@/components/landing/FaqTestimonials";
 import { CommunityForm } from "@/components/landing/CommunityForm";
@@ -20,6 +21,7 @@ export default function HomePage() {
       <AudienceGrid />
       <ProcessSteps />
       <RecordHighlight />
+      <VideosSection />
       <MissionValues />
       <FaqTestimonials />
       <CommunityForm />

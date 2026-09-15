@@ -8,6 +8,7 @@ export const site = {
 
 export const nav = [
   { label: "Why us", href: "#why-us" },
+  { label: "Videos", href: "#videos" },
   { label: "For Patients", href: "#patients" },
   { label: "How it works", href: "#how-it-works" },
   { label: "Contact", href: "#contact" },
@@ -240,10 +241,10 @@ export const footerLinks = {
     { label: "Security", href: "#values" },
   ],
   resources: [
+    { label: "Videos", href: "#videos" },
     { label: "Help center", href: "#faq" },
     { label: "Book a demo", href: "#contact" },
     { label: "Early access", href: "#contact" },
-    { label: "Stories", href: "#mission" },
   ],
   legal: [
     { label: "Privacy", href: "#values" },

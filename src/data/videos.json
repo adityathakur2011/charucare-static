@@ -1,0 +1,4363 @@
+{
+  "generatedFrom": "video.json",
+  "count": 307,
+  "domains": [
+    {
+      "id": "cancer_education",
+      "label": "Cancer Education"
+    },
+    {
+      "id": "supportive_care",
+      "label": "Supportive Care"
+    }
+  ],
+  "videos": [
+    {
+      "id": "REEL_THR_3006_BREAST",
+      "title": "5 Symptoms After Chemotherapy You Should Never Ignore",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_THR_3006_BREAST/en/job_mq2321vo_c3e0b6/REEL_THR_3006_BREAST_en.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1007_BREAST",
+      "title": "Can Early-Stage Breast Cancer Be Cured?",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reel-studio-v2/REEL_CAN_1007_BREAST/studio2_mq9kdiae_c71110/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1006_BREAST",
+      "title": "Life After Triple Negative Breast Cancer: What Comes Next?",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_CAN_1006_BREAST/en/job_mpsixj1l_3f24a6/REEL_CAN_1006_BREAST_en.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2008_BREAST",
+      "title": "Should Families Get Genetic Testing?",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reel-studio-v2/REEL_BIO_2008_BREAST/studio2_mq9k27t8_19dbff/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1005_BREAST",
+      "title": "Triple Negative Breast Cancer Is Aggressive — But Treatable",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_CAN_1005_BREAST/en/job_mpsctrwm_f04315/REEL_CAN_1005_BREAST_en.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2007_BREAST",
+      "title": "Understanding BRCA Mutations",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reel-studio-v2/REEL_BIO_2007_BREAST/studio2_mq9jnlg1_3d1c7b/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1008_BREAST",
+      "title": "Understanding Follow-Up After Treatment",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reel-studio-v2/REEL_CAN_1008_BREAST/studio2_mq9kmoe9_063160/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1009_BREAST",
+      "title": "Understanding Metastatic Breast Cancer",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reel-studio-v2/REEL_CAN_1009_BREAST/studio2_mq9kyg53_14a2ff/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_SE_4002_BREAST",
+      "title": "What Is Neutropenia And Why Does Chemotherapy Cause It?",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_SE_4002_BREAST/en/job_mq2gpmc3_3f20de/REEL_SE_4002_BREAST_en.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2009_BREAST",
+      "title": "What Is PD-L1 Testing?",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reel-studio-v2/REEL_BIO_2009_BREAST/studio2_mq8w28zb_0849d9/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_THR_3005_BREAST",
+      "title": "What Really Happens Inside Your Body During Chemotherapy?",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_THR_3005_BREAST/en/job_mq22mfqw_462445/REEL_THR_3005_BREAST_en.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_SE_4001_BREAST",
+      "title": "Why A Fever During Chemotherapy Should Never Be Ignored",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_SE_4001_BREAST/en/job_mq2emlgs_f1ee4a/REEL_SE_4001_BREAST_en.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_THR_3003_BREAST",
+      "title": "Why Breast Cancer Patients Take Tablets for Years",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_THR_3003_BREAST/hi/job_mprptso9_949644/REEL_THR_3003_BREAST_hi.mp4",
+      "languages": [
+        "hi",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3004_BREAST",
+      "title": "Why Hormone Therapy Causes Joint Pain",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_THR_3004_BREAST/en/job_mps3drib_5b9b67/REEL_THR_3004_BREAST_en.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_1019_BREAST",
+      "title": "Why Some Triple Negative Breast Cancer Patients Receive Immunotherapy",
+      "category": "breast_cancer",
+      "categoryLabel": "Breast Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/breast/reels/REEL_BIO_1019_BREAST/en/job_mq0q87re_b95f35/REEL_BIO_1019_BREAST_en.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1012_HNC",
+      "title": "Advanced Disease Planning, Trials, And Palliative Care",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1012_HNC/studio2_mr4ntgyr_0252f0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3002_HNC",
+      "title": "Chemoradiation Side Effects And Planning",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3002_HNC/studio2_mr3kbpy9_b7573f/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3042_HNC",
+      "title": "Chemotherapy Side Effects, Combinations, And Planning",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3042_HNC/studio2_mr4pk25q_76481b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2012_HNC",
+      "title": "EBV Monitoring And Safety After Treatment",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_BIO_2012_HNC/studio2_mr4c1viz_26ace3/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_SE_5012_HNC",
+      "title": "Eating Safely And Recovering Swallow Function",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_SE_5012_HNC/studio2_mr3jz21j_9c3ab8/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3012_HNC",
+      "title": "Immunotherapy Side Effects And Planning",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3012_HNC/studio2_mr3kp1vj_838dab/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1002_HNC",
+      "title": "Living Well After Diagnosis",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1002_HNC/studio2_mr2zahf3_511495/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_SE_5002_HNC",
+      "title": "Living With Dry Mouth",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_SE_5002_HNC/studio2_mr3jl14r_e853af/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_SE_5022_HNC",
+      "title": "Living With Head And Neck Lymphedema",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_SE_5022_HNC/studio2_mr4op78x_58f9c1/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_SE_5032_HNC",
+      "title": "Managing Mucositis Pain And Nutrition",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_SE_5032_HNC/studio2_mr4p4skq_b32a9c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PROC_4004_HNC",
+      "title": "Neck Dissection Risks, Recovery, And Planning",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "ONCOLOGY_EDUCATION",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_PROC_4004_HNC/studio2_mr4o94ur_3df3bf/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2022_HNC",
+      "title": "PD-L1 Reports, Thresholds, And Treatment Counseling",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_BIO_2022_HNC/studio2_mr4cfs5r_74ccc4/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1010_HNC",
+      "title": "Planning And Safety For Locally Advanced Disease",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1010_HNC/studio2_mr4nec2o_710fbf/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PROC_4002_HNC",
+      "title": "Preparing for Treatment After Workup",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "ONCOLOGY_EDUCATION",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_PROC_4002_HNC/studio2_mr4f6t04_d41f5c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3032_HNC",
+      "title": "Radiation Side Effects and Safety",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3032_HNC/studio2_mr4fksof_52055a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3022_HNC",
+      "title": "Surgery Recovery And Planning",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3022_HNC/studio2_mr3l2pj0_340a4f/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1006_HNC",
+      "title": "Treating Mouth Cancer Safely",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1006_HNC/studio2_mr4d0p4x_c47113/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1008_HNC",
+      "title": "Treating Nasopharyngeal Cancer Safely",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1008_HNC/studio2_mr4eswlz_e3db3f/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1004_HNC",
+      "title": "Treatment And Safety For Throat Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1004_HNC/studio2_mr31r77b_bc756f/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3001_HNC",
+      "title": "Understanding Chemoradiation",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3001_HNC/studio2_mr3k5j1f_26b2e2/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3041_HNC",
+      "title": "Understanding Chemotherapy For Head And Neck Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3041_HNC/studio2_mr4pcg7r_12f9af/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2011_HNC",
+      "title": "Understanding EBV in Nasopharyngeal Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_BIO_2011_HNC/studio2_mr4bv5pa_e5581a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1001_HNC",
+      "title": "Understanding Head And Neck Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1001_HNC/studio2_mr2z3msv_ef03f0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3021_HNC",
+      "title": "Understanding Head And Neck Surgery",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3021_HNC/studio2_mr3kw2kd_7a563b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PROC_4001_HNC",
+      "title": "Understanding Head and Neck Cancer Workup",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "ONCOLOGY_EDUCATION",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_PROC_4001_HNC/studio2_mr4f01wi_98e2df/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3011_HNC",
+      "title": "Understanding Immunotherapy",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3011_HNC/studio2_mr3kicen_4eedb0/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1009_HNC",
+      "title": "Understanding Locally Advanced Head And Neck Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1009_HNC/studio2_mr4n6r3h_35f142/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1011_HNC",
+      "title": "Understanding Metastatic Head And Neck Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1011_HNC/studio2_mr4nlwd8_256745/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_SE_5031_HNC",
+      "title": "Understanding Mouth Sores During Treatment",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_SE_5031_HNC/studio2_mr4ox2m6_146f51/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1007_HNC",
+      "title": "Understanding Nasopharyngeal Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1007_HNC/studio2_mr4ebxlv_c87356/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PROC_4003_HNC",
+      "title": "Understanding Neck Dissection In Head And Neck Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "ONCOLOGY_EDUCATION",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_PROC_4003_HNC/studio2_mr4o1ph4_29d88d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_SE_5021_HNC",
+      "title": "Understanding Neck Swelling After Treatment",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_SE_5021_HNC/studio2_mr4oh4eh_d79a66/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1005_HNC",
+      "title": "Understanding Oral Cavity Mouth Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1005_HNC/studio2_mr4cpx1v_d2e0f3/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1003_HNC",
+      "title": "Understanding Oropharyngeal Throat Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_CAN_1003_HNC/studio2_mr31xfi0_19e2d0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2021_HNC",
+      "title": "Understanding PD-L1 And CPS In Head And Neck Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_BIO_2021_HNC/studio2_mr4c8uou_dc4002/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3031_HNC",
+      "title": "Understanding Radiation Therapy for Head and Neck Cancer",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_THR_3031_HNC/studio2_mr4fdqb0_52d59c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_SE_5011_HNC",
+      "title": "Understanding Swallowing Difficulty",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_SE_5011_HNC/studio2_mr3js7s8_f1b647/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2001_HNC",
+      "title": "Understanding p16 And HPV Testing",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_BIO_2001_HNC/studio2_mr3iynqj_143b28/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2002_HNC",
+      "title": "Your p16 Results And Next Steps",
+      "category": "head_and_neck_cancer",
+      "categoryLabel": "Head & Neck Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/hnc/reel-studio-v2/REEL_BIO_2002_HNC/studio2_mr3j6313_f55134/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3062_LUNG",
+      "title": "After SBRT: Side Effects And Scans",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "TREATMENTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3062_LUNG/studio2_mr204f7n_bb777c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1004_LUNG",
+      "title": "After Surgery: Adjuvant And Surveillance",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "DISEASE_FOUNDATIONS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_CAN_1004_LUNG/studio2_mr1vy9u8_13588b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2051_LUNG",
+      "title": "BRAF Mutations In Lung Cancer",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOMARKERS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2051_LUNG/studio2_mr1u8j3f_e46bd2/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2052_LUNG",
+      "title": "BRAF/MEK Targeted Therapy",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOMARKERS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2052_LUNG/studio2_mr1ugg0e_91bcbb/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3021_LUNG",
+      "title": "Chemotherapy For Lung Cancer",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3021_LUNG/studio2_mr1z3pbi_13d6bf/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_PROC_4002_LUNG",
+      "title": "EBUS And Mediastinoscopy",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "PROCEDURES",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_PROC_4002_LUNG/studio2_mr1x7hb3_3730d0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1006_LUNG",
+      "title": "Extensive-Stage SCLC And PCI",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "DISEASE_FOUNDATIONS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_CAN_1006_LUNG/studio2_mr1wdv5h_d1d77d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1007_LUNG",
+      "title": "First Steps In Metastatic NSCLC",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "DISEASE",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_CAN_1007_LUNG/studio2_mr1wkxna_fe4a24/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3011_LUNG",
+      "title": "How Immunotherapy Works",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3011_LUNG/studio2_mr1ypeds_2f927e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3061_LUNG",
+      "title": "How Lung SBRT Works",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "TREATMENTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3061_LUNG/studio2_mr1zx6dd_a1142d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2041_LUNG",
+      "title": "KRAS G12C Explained",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOMARKERS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2041_LUNG/studio2_mr1tt9cv_263e9e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2042_LUNG",
+      "title": "KRAS G12C Targeted Drugs",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOMARKERS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2042_LUNG/studio2_mr1u0lfn_ddb9a1/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2012_LUNG",
+      "title": "Living On ALK Targeted Therapy",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2012_LUNG/studio2_mr1t5xls_e74eac/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1002_LUNG",
+      "title": "Living Well After Diagnosis",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_CAN_1002_LUNG/studio2_mr1vhzyd_f98d7d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2061_LUNG",
+      "title": "MET Exon 14 Skipping",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOMARKERS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2061_LUNG/studio2_mr1uo4w3_7f657d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2062_LUNG",
+      "title": "MET Inhibitor Treatment",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOMARKERS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2062_LUNG/studio2_mr1uvlpc_d42b98/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3022_LUNG",
+      "title": "Managing Chemo Side Effects",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3022_LUNG/studio2_mr1zah94_23f2d2/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2022_LUNG",
+      "title": "PD-L1 And Treatment Choices",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2022_LUNG/studio2_mqgjtlgn_dd4201/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_SE_5032_LUNG",
+      "title": "Practical Fatigue Support",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "ONCOLOGY_EDUCATION",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_SE_5032_LUNG/studio2_mr1y1zhy_e55ced/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2071_LUNG",
+      "title": "RET Fusions In NSCLC",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOMARKERS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2071_LUNG/studio2_mr1v2yjy_92db6a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2072_LUNG",
+      "title": "RET Targeted Therapy",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOMARKERS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2072_LUNG/studio2_mr1sb5oz_698d64/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2032_LUNG",
+      "title": "ROS1 Targeted Treatment",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2032_LUNG/studio2_mr1tlczk_c4d0ee/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3052_LUNG",
+      "title": "Recovery And After Lobectomy",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "TREATMENTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3052_LUNG/studio2_mr1zpoji_3558ee/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3001_LUNG",
+      "title": "Targeted Drugs Match Your Tumor",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3001_LUNG/studio2_mr1y9pib_26d62b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2011_LUNG",
+      "title": "Understanding ALK Lung Cancer",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2011_LUNG/studio2_mr1sybdp_781544/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1003_LUNG",
+      "title": "Understanding Early-Stage NSCLC",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "DISEASE_FOUNDATIONS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_CAN_1003_LUNG/studio2_mr1vqavz_730952/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1001_LUNG",
+      "title": "Understanding NSCLC Basics",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_CAN_1001_LUNG/studio2_mr1vals3_9f1d63/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2021_LUNG",
+      "title": "Understanding PD-L1",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2021_LUNG/studio2_mqgjl9kw_9afc8f/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3012_LUNG",
+      "title": "Watch For Immune Side Effects",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3012_LUNG/studio2_mr1ywd9e_dc9d43/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3051_LUNG",
+      "title": "What Happens During Lobectomy",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "TREATMENTS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3051_LUNG/studio2_mr1zi1xh_e0542f/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_SE_5001_LUNG",
+      "title": "What Is Immunotherapy Pneumonitis?",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECT",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_SE_5001_LUNG/studio2_mr1xepj4_fde11b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2031_LUNG",
+      "title": "What Is ROS1 Lung Cancer?",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2031_LUNG/studio2_mr1tdlsw_042190/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1005_LUNG",
+      "title": "What Is SCLC?",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "DISEASE_FOUNDATIONS",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_CAN_1005_LUNG/studio2_mr1w5zz5_b7b9f6/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2001_LUNG",
+      "title": "What Is an EGFR Mutation?",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2001_LUNG/studio2_mqgj58hq_f7cc70/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2002_LUNG",
+      "title": "When EGFR Therapy Stops Working",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_BIO_2002_LUNG/studio2_mqgjctgq_eb5df5/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1008_LUNG",
+      "title": "When Metastatic Cancer Progresses",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "DISEASE",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_CAN_1008_LUNG/studio2_mr1wsemq_772ba9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_THR_3002_LUNG",
+      "title": "When Targeted Therapy Needs A Change",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_THR_3002_LUNG/studio2_mr1yhhw7_43102e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_SE_5002_LUNG",
+      "title": "When To Seek Urgent Care",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "SIDE_EFFECT",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_SE_5002_LUNG/studio2_mr1xmr5g_789005/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_SE_5031_LUNG",
+      "title": "Why Fatigue Happens",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "ONCOLOGY_EDUCATION",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_SE_5031_LUNG/studio2_mr1xu6r7_d6cd1e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_PROC_4001_LUNG",
+      "title": "Why Mediastinal Staging Matters",
+      "category": "lung_cancer",
+      "categoryLabel": "Lung Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "PROCEDURES",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/lung/reel-studio-v2/REEL_PROC_4001_LUNG/studio2_mr1wzzqf_c3cd22/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "mr"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2001_OV",
+      "title": "BRCA and HRD testing—why it matters right after diagnosis",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_BIO_2001_OV/studio2_mr6bgbt9_7a48b4/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1005_OV",
+      "title": "BRCA and HRD — why every patient should be tested",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_CAN_1005_OV/studio2_mr60epsg_a1a8ea/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PROC_4003_OV",
+      "title": "BRCA testing, second opinions, and finding the right specialist team",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "ONCOLOGY_EDUCATION",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_PROC_4003_OV/studio2_mr6ad5n5_f577de/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1003_OV",
+      "title": "CA-125 and imaging — what tests really mean",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_CAN_1003_OV/studio2_mr60td7h_213046/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PROC_4002_OV",
+      "title": "CA-125, ultrasound, CT—what your workup results really mean",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "ONCOLOGY_EDUCATION",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_PROC_4002_OV/studio2_mr6am18t_25775b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1006_OV",
+      "title": "Cytoreductive surgery — what optimal debulking means",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_CAN_1006_OV/studio2_mr607g83_cb0086/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3001_OV",
+      "title": "Cytoreductive surgery—what it is and why it matters",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_THR_3001_OV/studio2_mr6cffgk_ec2275/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1001_OV",
+      "title": "Did you know many ovarian cancers start in the fallopian tubes?",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_CAN_1001_OV/studio2_mr617ehm_a509a7/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1004_OV",
+      "title": "FIGO staging explained in plain language",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_CAN_1004_OV/studio2_mr60lwpc_7796ad/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_BIO_2003_OV",
+      "title": "Lynch syndrome, family testing, and getting results on time",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_BIO_2003_OV/studio2_mr6av7w4_f11218/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1002_OV",
+      "title": "Persistent bloating for weeks? Don't ignore these symptoms.",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_CAN_1002_OV/studio2_mr610iiz_73abe2/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1007_OV",
+      "title": "Platinum chemo and PARP maintenance — the treatment arc",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_CAN_1007_OV/studio2_mr60074b_1941b0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_THR_3002_OV",
+      "title": "Recovery and red flags after ovarian cancer surgery",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "THERAPY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_THR_3002_OV/studio2_mr6c1lue_005e88/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_CAN_1008_OV",
+      "title": "Survivorship, caregivers, and when to call urgently",
+      "category": "ovarian_cancer",
+      "categoryLabel": "Ovarian Cancer",
+      "domain": "cancer_education",
+      "domainLabel": "Cancer Education",
+      "section": "CANCER_BIOLOGY",
+      "url": "https://holistic-medical-reports.s3.us-east-1.amazonaws.com/gold-oncology/ovarian/reel-studio-v2/REEL_CAN_1008_OV/studio2_mr5zt4ib_cb91f9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_014_SELFCARE_10_MINUTES",
+      "title": "10 Minutes of Self-Care Every Cancer Caregiver Deserves",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_014_SELFCARE_10_MINUTES/studio2_mqotexaj_aed018/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_017_APPOINTMENT_PREPARATION",
+      "title": "3 Questions Every Cancer Caregiver Should Ask at Appointments",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CARE_COORDINATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_017_APPOINTMENT_PREPARATION/studio2_mqotexey_94b550/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_005_BURNOUT_PREVENTION",
+      "title": "3 Signs You're Experiencing Caregiver Burnout",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_005_BURNOUT_PREVENTION/studio2_mqge33oz_d79a4c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_011_INFECTION_PREVENTION",
+      "title": "3 Simple Ways to Reduce Infection Risk During Cancer Treatment",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "INFECTION_PREVENTION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_011_INFECTION_PREVENTION/studio2_mqotex5j_e39d0b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_002_APPOINTMENT_QUESTIONS",
+      "title": "5 Questions Every Cancer Caregiver Should Ask at Every Appointment",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MEDICAL_NAVIGATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_002_APPOINTMENT_QUESTIONS/studio2_mqgdgexk_df8de9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_021_BURNOUT_SIGNS",
+      "title": "5 Signs of Caregiver Burnout You Shouldn't Ignore",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_021_BURNOUT_SIGNS/studio2_mqotexkd_0528f5/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_001_SURVIVAL_KIT",
+      "title": "5 Things Every Cancer Caregiver Should Always Carry",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PRACTICAL_CAREGIVING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_001_SURVIVAL_KIT/studio2_mqgd8zeo_2d94ae/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_004_RED_FLAGS",
+      "title": "6 Symptoms Cancer Caregivers Should Never Ignore",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_004_RED_FLAGS/studio2_mqgdvlql_5cebf3/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_031_SELF_COMPASSION",
+      "title": "Be as Kind to Yourself as You Are to Others",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_031_SELF_COMPASSION/studio2_mqoxmkde_af6288/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_039_CAREGIVER_ADVOCACY",
+      "title": "Becoming Your Loved One's Best Advocate",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMPOWERMENT_AND_ADVOCACY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_039_CAREGIVER_ADVOCACY/studio2_mqoxmkps_6f193b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_023_DECISION_FATIGUE",
+      "title": "Decision Fatigue: When Every Choice Feels Overwhelming",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_023_DECISION_FATIGUE/studio2_mqotexmy_e3e4a1/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_043_CAREGIVER_EMERGENCY_PLAN",
+      "title": "Every Cancer Caregiver Needs an Emergency Plan",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PRACTICAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_043_CAREGIVER_EMERGENCY_PLAN/studio2_mqoxmkvm_cba09a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_035_CELEBRATING_SMALL_WINS",
+      "title": "Finding Joy in Small Wins During Cancer Care",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_RESILIENCE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_035_CELEBRATING_SMALL_WINS/studio2_mqoxmkk1_89befe/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_029_MEANING_AND_PURPOSE",
+      "title": "Finding Meaning Through the Caregiving Journey",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "POST_CAREGIVING_GROWTH",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_029_MEANING_AND_PURPOSE/studio2_mqotexvh_3efe12/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_048_FINDING_MEANING",
+      "title": "Finding Meaning in the Caregiving Journey",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_048_FINDING_MEANING/studio2_mqoxml4f_a0b78c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_046_CAREGIVER_GRIEF_AND_HOPE",
+      "title": "Holding Grief and Hope at the Same Time",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_046_CAREGIVER_GRIEF_AND_HOPE/studio2_mqoxml0g_a86aba/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_032_HOPE_AND_UNCERTAINTY",
+      "title": "Holding on to Hope During Uncertain Times",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_032_HOPE_AND_UNCERTAINTY/studio2_mqoxmkf3_853961/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_015_HARD_CONVERSATIONS",
+      "title": "How to Have Difficult Conversations During Cancer Care",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "COMMUNICATION_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_015_HARD_CONVERSATIONS/studio2_mqotexc4_25c7e2/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_045_MEANINGFUL_CONVERSATIONS",
+      "title": "How to Have Meaningful Conversations During Cancer Care",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "COMMUNICATION_AND_CONNECTION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_045_MEANINGFUL_CONVERSATIONS/studio2_mqoxmkyl_9ef55d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_038_REBUILDING_LIFE",
+      "title": "How to Rebuild Your Life After Intensive Caregiving",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "LIFE_AFTER_CAREGIVING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_038_REBUILDING_LIFE/studio2_mqoxmko7_5b3c39/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_010_FATIGUE_MANAGEMENT",
+      "title": "How to Support Someone With Cancer-Related Fatigue",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_010_FATIGUE_MANAGEMENT/studio2_mqkexfab_16a2a0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_022_CAREGIVER_GUILT",
+      "title": "Letting Go of Caregiver Guilt",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_022_CAREGIVER_GUILT/studio2_mqotexlm_4c390a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_019_FINANCIAL_STRESS",
+      "title": "Managing Financial Stress During Cancer Care",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PRACTICAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_019_FINANCIAL_STRESS/studio2_mqotexhq_5a112b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_041_FINANCIAL_NAVIGATION",
+      "title": "Managing the Financial Side of Cancer Care",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PRACTICAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_041_FINANCIAL_NAVIGATION/studio2_mqoxmkst_91c152/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_016_MEDICATION_MANAGEMENT",
+      "title": "Medication Mistakes Every Cancer Caregiver Should Avoid",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MEDICATION_SAFETY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_016_MEDICATION_MANAGEMENT/studio2_mqotexdn_baf2f0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_033_MINDFUL_MOMENTS",
+      "title": "One Minute of Calm: Mindfulness for Caregivers",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MINDFULNESS_AND_RESILIENCE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_033_MINDFUL_MOMENTS/studio2_mqoxmkgl_d75d61/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_013_SCANXIETY",
+      "title": "Scanxiety Is Real: How Caregivers Can Cope Before Scan Results",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_013_SCANXIETY/studio2_mqotex91_391cb3/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_042_DIGITAL_CAREGIVER_TOOLKIT",
+      "title": "The Digital Toolkit Every Cancer Caregiver Needs",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PRACTICAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_042_DIGITAL_CAREGIVER_TOOLKIT/studio2_mqoxmku6_49567b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_036_CAREGIVER_LEGACY",
+      "title": "The Invisible Legacy of Caregiving",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MEANING_AND_CONNECTION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_036_CAREGIVER_LEGACY/studio2_mqoxmklk_195a26/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_006_MEDICAL_RECORDS",
+      "title": "The One Folder Every Cancer Caregiver Needs",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CARE_COORDINATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_006_MEDICAL_RECORDS/studio2_mqge9t69_22b786/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_003_MEDICATION_TRACKING",
+      "title": "The One Medication System Every Cancer Caregiver Needs",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MEDICATION_SAFETY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_003_MEDICATION_TRACKING/studio2_mqgdo0vf_55bf9d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_047_SELF_COMPASSION",
+      "title": "The One Person Caregivers Often Forget to Care For",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_047_SELF_COMPASSION/studio2_mqoxml2s_d69e73/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_034_ASKING_THE_RIGHT_QUESTIONS",
+      "title": "The Questions Every Cancer Caregiver Should Ask",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MEDICAL_NAVIGATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_034_ASKING_THE_RIGHT_QUESTIONS/studio2_mqoxmkic_839dab/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_040_YOUR_STRENGTH_MATTERS",
+      "title": "To Every Caregiver: Your Strength Matters",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMPOWERMENT_AND_RECOGNITION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_040_YOUR_STRENGTH_MATTERS/studio2_mqoxmkre_15918c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_028_CAREGIVER_GRIEF",
+      "title": "Understanding Caregiver Grief: Before, During and After Loss",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_028_CAREGIVER_GRIEF/studio2_mqotexu6_2f22fd/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_007_TREATMENT_DAY_BAG",
+      "title": "What to Pack for a Cancer Treatment Day",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "TREATMENT_PREPARATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_007_TREATMENT_DAY_BAG/studio2_mqgehdtt_4adb66/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_008_EMOTIONAL_SUPPORT",
+      "title": "What to Say When Someone You Love Has Cancer",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_008_EMOTIONAL_SUPPORT/studio2_mqgeo7mn_eae649/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_024_INTIMACY_AND_RELATIONSHIPS",
+      "title": "When Cancer Changes Your Relationship",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "RELATIONSHIP_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_024_INTIMACY_AND_RELATIONSHIPS/studio2_mqotexoi_307c28/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_009_NUTRITION_SUPPORT",
+      "title": "When Eating Becomes Difficult During Cancer Treatment",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_009_NUTRITION_SUPPORT/studio2_mqgevbmz_410a07/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_027_AFTER_TREATMENT_TRANSITION",
+      "title": "When Treatment Ends: Why Caregivers May Still Struggle",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_027_AFTER_TREATMENT_TRANSITION/studio2_mqotexsr_fab82d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_026_CAREGIVER_IDENTITY",
+      "title": "Who Are You Beyond Caregiving?",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SELF_IDENTITY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_026_CAREGIVER_IDENTITY/studio2_mqotexrb_aeb072/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_012_ACCEPTING_HELP",
+      "title": "Why Accepting Help Makes You a Better Caregiver",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_012_ACCEPTING_HELP/studio2_mqotex7j_605f45/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_025_ACCEPTING_HELP",
+      "title": "Why Accepting Help Makes You a Stronger Caregiver",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SUPPORT_NETWORKS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_025_ACCEPTING_HELP/studio2_mqotexpz_9f8799/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_018_SLEEP_AND_REST",
+      "title": "Why Caregivers Need Sleep Too",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_018_SLEEP_AND_REST/studio2_mqotexgf_086897/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_049_CELEBRATING_SMALL_WINS",
+      "title": "Why Caregivers Should Celebrate Small Wins",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_049_CELEBRATING_SMALL_WINS/studio2_mqoxml5q_5a3f21/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_037_CAREGIVER_BOUNDARIES",
+      "title": "Why Healthy Boundaries Make You a Better Caregiver",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SELF_CARE_AND_SUSTAINABILITY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_037_CAREGIVER_BOUNDARIES/studio2_mqoxmkmv_759780/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_020_CELEBRATING_SMALL_WINS",
+      "title": "Why Small Wins Matter During Cancer Care",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_020_CELEBRATING_SMALL_WINS/studio2_mqotexj0_a01efa/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_030_YOU_ARE_NOT_ALONE",
+      "title": "You Are Not Alone: Finding Strength in Community",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "COMMUNITY_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_030_YOU_ARE_NOT_ALONE/studio2_mqotexwt_72f66b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_CAREGIVER_044_CAREGIVER_SUPPORT_NETWORK",
+      "title": "You Don't Have to Do This Alone: Building a Caregiver Support Network",
+      "category": "caregiving",
+      "categoryLabel": "Caregiving",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SOCIAL_AND_EMOTIONAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_CAREGIVER_044_CAREGIVER_SUPPORT_NETWORK/studio2_mqoxmkx2_a73930/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_AYURVEDA_001_CHEMO_SIDE_EFFECT_SUPPORT",
+      "title": "Can Ayurveda Help Reduce Chemotherapy Side Effects?",
+      "category": "integrative_oncology",
+      "categoryLabel": "Integrative Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "AYURVEDA_SUPPORTIVE_CARE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_AYURVEDA_001_CHEMO_SIDE_EFFECT_SUPPORT/studio2_mqp71qk2_fc803a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_AYURVEDA_004_NAUSEA_SUPPORT",
+      "title": "Feeling Nauseous During Treatment? Understanding Chemotherapy-Related Nausea",
+      "category": "integrative_oncology",
+      "categoryLabel": "Integrative Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "AYURVEDA_SUPPORTIVE_CARE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_AYURVEDA_004_NAUSEA_SUPPORT/studio2_mqp71qp2_1d599a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_AYURVEDA_008_REBUILDING_STRENGTH",
+      "title": "How Can You Rebuild Strength After Cancer Treatment?",
+      "category": "integrative_oncology",
+      "categoryLabel": "Integrative Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "AYURVEDA_SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_AYURVEDA_008_REBUILDING_STRENGTH/studio2_mqp71qyq_e444ab/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_AYURVEDA_005_MOUTH_SORES_SUPPORT",
+      "title": "Mouth Sores During Treatment? Understanding Oral Care in Cancer",
+      "category": "integrative_oncology",
+      "categoryLabel": "Integrative Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "AYURVEDA_SUPPORTIVE_CARE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_AYURVEDA_005_MOUTH_SORES_SUPPORT/studio2_mqp71qr9_daad98/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_AYURVEDA_003_APPETITE_SUPPORT",
+      "title": "Nothing Tastes Good? Managing Appetite Loss During Cancer Treatment",
+      "category": "integrative_oncology",
+      "categoryLabel": "Integrative Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "AYURVEDA_SUPPORTIVE_CARE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_AYURVEDA_003_APPETITE_SUPPORT/studio2_mqp71qt4_19a17e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_AYURVEDA_007_POST_CHEMO_RECOVERY",
+      "title": "Treatment Is Over. How Can You Support Recovery After Chemotherapy?",
+      "category": "integrative_oncology",
+      "categoryLabel": "Integrative Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "AYURVEDA_SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_AYURVEDA_007_POST_CHEMO_RECOVERY/studio2_mqp71qx1_d45990/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_AYURVEDA_006_RASAYANA_EXPLAINED",
+      "title": "What Is Rasayana Therapy? Understanding Ayurvedic Rejuvenation",
+      "category": "integrative_oncology",
+      "categoryLabel": "Integrative Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "AYURVEDA_SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_AYURVEDA_006_RASAYANA_EXPLAINED/studio2_mqp71quu_751b37/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_AYURVEDA_002_CANCER_FATIGUE_SUPPORT",
+      "title": "Why Am I So Tired? Understanding Cancer-Related Fatigue",
+      "category": "integrative_oncology",
+      "categoryLabel": "Integrative Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "AYURVEDA_SUPPORTIVE_CARE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_AYURVEDA_002_CANCER_FATIGUE_SUPPORT/studio2_mqp71qmp_f7cb48/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_019_ORAL_NUTRITION_SUPPLEMENTS",
+      "title": "Do I Need Oral Nutrition Supplements During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "ADVANCED_NUTRITION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_019_ORAL_NUTRITION_SUPPLEMENTS/studio2_mqp02wd6_ed9543/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_030_ORAL_NUTRITION_SUPPLEMENTS",
+      "title": "Do I Need Oral Nutrition Supplements During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_030_ORAL_NUTRITION_SUPPLEMENTS/studio2_mqp02wvi_f1578b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_044_ORAL_NUTRITION_SUPPLEMENTS",
+      "title": "Do I Need Oral Nutrition Supplements During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_OPTIMIZATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_044_ORAL_NUTRITION_SUPPLEMENTS/studio2_mqp5ngkp_eb8135/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_001_SUGAR_AND_CANCER",
+      "title": "Does Sugar Feed Cancer?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MYTH_BUSTING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_001_SUGAR_AND_CANCER/studio2_mq67ji0h_a439d1/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_014_FOOD_SAFETY_DURING_TREATMENT",
+      "title": "Food Safety During Cancer Treatment — How Can I Reduce My Risk of Infection?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FOOD_SAFETY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_014_FOOD_SAFETY_DURING_TREATMENT/studio2_mqp02w3s_31e60d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_013_HIGH_PROTEIN_SMOOTHIES",
+      "title": "High-Protein Smoothies for Cancer Patients",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PRACTICAL_NUTRITION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_013_HIGH_PROTEIN_SMOOTHIES/studio2_mqp02w1z_d5f27a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_042_HIGH_PROTEIN_SNACKS",
+      "title": "High-Protein Snacks Every Cancer Patient Should Know About",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_OPTIMIZATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_042_HIGH_PROTEIN_SNACKS/studio2_mqp4ya31_01f7c9/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_043_HIGH_CALORIE_FOODS",
+      "title": "How Can I Add More Calories to My Meals During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_OPTIMIZATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_043_HIGH_CALORIE_FOODS/studio2_mqp5dfat_50c170/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_029_HEALTHY_FATS_DURING_TREATMENT",
+      "title": "How Can I Add More Healthy Calories When I'm Eating Less?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_FOUNDATIONS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_029_HEALTHY_FATS_DURING_TREATMENT/studio2_mqp02wtp_fe2fdf/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_003_PROTEIN_REQUIREMENTS",
+      "title": "How Much Protein Do Cancer Patients Need?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PROTEIN_EDUCATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_003_PROTEIN_REQUIREMENTS/studio2_mqgmhvbo_853a4a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_009_HYDRATION_DURING_TREATMENT",
+      "title": "How Much Water Should I Drink During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "HYDRATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_009_HYDRATION_DURING_TREATMENT/studio2_mqp02vty_5bdb96/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_020_HYDRATION_DURING_TREATMENT",
+      "title": "How Much Water Should I Drink During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "HYDRATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_020_HYDRATION_DURING_TREATMENT/studio2_mqp02wev_3da004/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_031_HYDRATION_DURING_TREATMENT",
+      "title": "How Much Water Should I Drink During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_FOUNDATIONS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_031_HYDRATION_DURING_TREATMENT/studio2_mqp02wx7_d3b96e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_045_HYDRATION_DURING_TREATMENT",
+      "title": "How Much Water Should I Drink During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "HYDRATION_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_045_HYDRATION_DURING_TREATMENT/studio2_mqp5vwkj_b5d5c2/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_007_WEIGHT_LOSS_MANAGEMENT",
+      "title": "I'm Losing Weight During Treatment. What Should I Do?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "WEIGHT_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_007_WEIGHT_LOSS_MANAGEMENT/studio2_mqisvbq8_64b1da/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_008_HIGH_PROTEIN_VEGETARIAN_FOODS",
+      "title": "What Are the Best High-Protein Vegetarian Foods During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PROTEIN_EDUCATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_008_HIGH_PROTEIN_VEGETARIAN_FOODS/studio2_mqp02vri_cba857/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_021_MANAGING_NAUSEA",
+      "title": "What Can I Eat If I Feel Nauseous During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_021_MANAGING_NAUSEA/studio2_mqp02wgh_c0a215/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_035_DIFFICULTY_SWALLOWING",
+      "title": "What Can I Eat If I Have Difficulty Swallowing During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_035_DIFFICULTY_SWALLOWING/studio2_mqp02x7p_b20b3a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_034_DRY_MOUTH_MANAGEMENT",
+      "title": "What Can I Eat If I Have Dry Mouth During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_034_DRY_MOUTH_MANAGEMENT/studio2_mqp02x5c_fcad1d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_018_CANCER_CACHEXIA",
+      "title": "What Is Cancer Cachexia and Why Am I Losing Weight Even Though I'm Trying to Eat?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "ADVANCED_NUTRITION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_018_CANCER_CACHEXIA/studio2_mqp02wb2_dd2469/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_022_MANAGING_VOMITING",
+      "title": "What Should I Do If I Keep Vomiting During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_022_MANAGING_VOMITING/studio2_mqp02wi4_30a944/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_038_NAUSEA_MANAGEMENT",
+      "title": "What Should I Eat If I Feel Nauseous During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_038_NAUSEA_MANAGEMENT/studio2_mqp02xep_f9c232/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_010_CONSTIPATION_MANAGEMENT",
+      "title": "What Should I Eat If I Have Constipation During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_010_CONSTIPATION_MANAGEMENT/studio2_mqp02vw4_c0f2b9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_024_MANAGING_CONSTIPATION",
+      "title": "What Should I Eat If I Have Constipation During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_024_MANAGING_CONSTIPATION/studio2_mqp02wlt_5252f0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_037_CONSTIPATION_MANAGEMENT",
+      "title": "What Should I Eat If I Have Constipation During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_037_CONSTIPATION_MANAGEMENT/studio2_mqp02xcc_16924c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_011_DIARRHEA_MANAGEMENT",
+      "title": "What Should I Eat If I Have Diarrhea During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_011_DIARRHEA_MANAGEMENT/studio2_mqp02vy6_b85660/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_023_MANAGING_DIARRHEA",
+      "title": "What Should I Eat If I Have Diarrhea During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_023_MANAGING_DIARRHEA/studio2_mqp02wk3_5cf1c4/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_036_DIARRHEA_MANAGEMENT",
+      "title": "What Should I Eat If I Have Diarrhea During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_036_DIARRHEA_MANAGEMENT/studio2_mqp02x9y_2b17d9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_040_APPETITE_LOSS",
+      "title": "What Should I Eat If I Have Lost My Appetite During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_040_APPETITE_LOSS/studio2_mqp02xjh_cd2bfb/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_033_MOUTH_SORES_NUTRITION",
+      "title": "What Should I Eat If I Have Mouth Sores During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_033_MOUTH_SORES_NUTRITION/studio2_mqp02x2t_bc53a6/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_026_LOW_HEMOGLOBIN_NUTRITION",
+      "title": "What Should I Eat If My Hemoglobin Is Low During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "TREATMENT_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_026_LOW_HEMOGLOBIN_NUTRITION/studio2_mqp02wnq_cab045/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_027_LOW_PLATELETS_NUTRITION",
+      "title": "What Should I Eat If My Platelet Count Is Low During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "TREATMENT_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_027_LOW_PLATELETS_NUTRITION/studio2_mqp02wpq_c78f79/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_005_TASTE_CHANGES",
+      "title": "What Should I Eat When Food Tastes Metallic?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_005_TASTE_CHANGES/studio2_mqgmzx2n_ce906b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_004_NAUSEA_MANAGEMENT",
+      "title": "What Should I Eat When I Feel Nauseous During Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_004_NAUSEA_MANAGEMENT/studio2_mqgmqve7_2b85e0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_006_MOUTH_SORES",
+      "title": "What Should I Eat When I Have Mouth Sores?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_006_MOUTH_SORES/studio2_mqislvg3_5790ad/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_002_CHEMOTHERAPY_DAY_MEALS",
+      "title": "What Should I Eat on Chemotherapy Days?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "TREATMENT_DAY_NUTRITION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_002_CHEMOTHERAPY_DAY_MEALS/studio2_mqgm7wfp_7141b4/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_041_UNINTENTIONAL_WEIGHT_LOSS",
+      "title": "Why Am I Losing Weight During Cancer Treatment and What Can I Do About It?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_041_UNINTENTIONAL_WEIGHT_LOSS/studio2_mqp4n23s_46ac75/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_032_TASTE_CHANGES",
+      "title": "Why Does Food Taste Different During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_032_TASTE_CHANGES/studio2_mqp02x03_797827/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_017_DRY_MOUTH",
+      "title": "Why Is My Mouth So Dry During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_017_DRY_MOUTH/studio2_mqp02w9b_2625c3/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_028_PROTEIN_IMPORTANCE",
+      "title": "Why Is Protein So Important During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_FOUNDATIONS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_028_PROTEIN_IMPORTANCE/studio2_mqp02wry_41675c/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_ONCO_NUTRITION_016_DIFFICULTY_SWALLOWING",
+      "title": "Why Is Swallowing Difficult During Cancer Treatment?",
+      "category": "nutrition",
+      "categoryLabel": "Nutrition",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_ONCO_NUTRITION_016_DIFFICULTY_SWALLOWING/studio2_mqp02w7f_2dbdc4/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "CHARUCARE_HOSPITAL_PLATFORM_001",
+      "title": "CharuCare Oncology Platform: AI-Native Oncology Intelligence for Hospitals",
+      "category": "intelligence_platform",
+      "categoryLabel": "Oncology Intelligence Platform",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "HOSPITAL_TRANSFORMATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/CHARUCARE_HOSPITAL_PLATFORM_001/studio2_mqjg0x8k_be735a/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "CHARUCARE_MAIN_APP_INVESTOR_001",
+      "title": "CharuCare: Because No One Should Navigate Cancer Alone",
+      "category": "patient_platform",
+      "categoryLabel": "Oncology Patient Platform",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PATIENT_AND_CAREGIVER_EXPERIENCE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/CHARUCARE_MAIN_APP_INVESTOR_001/studio2_mqjaq6hi_32ef15/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_047_ANTICIPATORY_GRIEF_IN_FAMILIES",
+      "title": "Anticipatory Grief: Why Families Start Grieving Before a Loss Happens",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PSYCHO_ONCOLOGY_AND_FAMILY_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_047_ANTICIPATORY_GRIEF_IN_FAMILIES/studio2_mqqhx97b_a749bc/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_040_ANXIETY_AND_PANIC_DURING_CANCER",
+      "title": "Anxiety and Panic During Cancer: When Fear Takes Over",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PSYCHO_ONCOLOGY_AND_EMOTIONAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_040_ANXIETY_AND_PANIC_DURING_CANCER/studio2_mqqgc4fm_e7fedf/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_017_CAREGIVER_BURNOUT",
+      "title": "Are You Experiencing Caregiver Burnout?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_017_CAREGIVER_BURNOUT/studio2_mqq6y5u1_19d5b2/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_039_BREATHLESSNESS_IN_CANCER",
+      "title": "Breathlessness During Cancer: When Every Breath Feels Hard",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "RESPIRATORY_SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_039_BREATHLESSNESS_IN_CANCER/studio2_mqqg3onz_3578b8/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_026_GRATITUDE_DURING_CANCER",
+      "title": "Can Gratitude Help During Cancer?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_026_GRATITUDE_DURING_CANCER/studio2_mqq8z18j_6be0db/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_048_HOPE_WHEN_CURE_IS_NOT_POSSIBLE",
+      "title": "Can Hope Exist Even When Cure Is Not Possible?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "HOPE_MEANING_AND_EMOTIONAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_048_HOPE_WHEN_CURE_IS_NOT_POSSIBLE/studio2_mqqi5cfp_3894b0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_028_MINDFULNESS_FOR_CANCER_PATIENTS",
+      "title": "Can Mindfulness Help During Cancer?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_028_MINDFULNESS_FOR_CANCER_PATIENTS/studio2_mqq9ftmb_160c1a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_013_NON_DRUG_PAIN_RELIEF",
+      "title": "Can Non-Drug Approaches Help Cancer Pain?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NON_PHARMACOLOGICAL_PAIN_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_013_NON_DRUG_PAIN_RELIEF/studio2_mqq62knl_277c5d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_023_HOPE_AND_REALISM",
+      "title": "Can You Have Hope and Still Be Realistic?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_RESILIENCE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_023_HOPE_AND_REALISM/studio2_mqq8a1b0_36aca9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_010_OPIOID_MYTHS",
+      "title": "Cancer Pain Medicines: Separating Myths from Facts",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CANCER_PAIN_MEDICATIONS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_010_OPIOID_MYTHS/studio2_mqp71rho_b24c12/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_044_HOW_CAREGIVERS_CAN_HANDLE_BURNOUT",
+      "title": "Caregiver Burnout: Who Takes Care of the Caregiver?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_044_HOW_CAREGIVERS_CAN_HANDLE_BURNOUT/studio2_mqqh8v32_3bbd38/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_037_CONSTIPATION_IN_CANCER_CARE",
+      "title": "Constipation During Cancer Care: The Symptom Nobody Wants to Talk About",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "DIGESTIVE_SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_037_CONSTIPATION_IN_CANCER_CARE/studio2_mqqfneu2_a7915c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_015_MANAGING_CONSTIPATION",
+      "title": "Constipation During Cancer Pain Treatment: Don't Ignore It",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PAIN_MEDICATION_SIDE_EFFECTS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_015_MANAGING_CONSTIPATION/studio2_mqq6i5ed_425999/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_041_DEPRESSION_DURING_CANCER_CARE",
+      "title": "Depression During Cancer Care: When Sadness Doesn't Go Away",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PSYCHO_ONCOLOGY_AND_EMOTIONAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_041_DEPRESSION_DURING_CANCER_CARE/studio2_mqqgk5tz_0758ac/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_038_DIARRHEA_DURING_CANCER_TREATMENT",
+      "title": "Diarrhea During Cancer Treatment: When to Seek Help",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "DIGESTIVE_SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_038_DIARRHEA_DURING_CANCER_TREATMENT/studio2_mqqfvn6c_9582b6/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_034_DRY_MOUTH_DURING_CANCER_CARE",
+      "title": "Dry Mouth During Cancer Care: More Than Just Thirst",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "ORAL_CARE_AND_SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_034_DRY_MOUTH_DURING_CANCER_CARE/studio2_mqqeytoz_76fc58/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_027_FINDING_STRENGTH_IN_UNCERTAINTY",
+      "title": "Finding Strength in Uncertainty",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_RESILIENCE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_027_FINDING_STRENGTH_IN_UNCERTAINTY/studio2_mqq97bru_5c0efa/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_043_HOW_TO_TALK_TO_CHILDREN_ABOUT_CANCER",
+      "title": "How Do We Tell Children About Cancer?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FAMILY_COMMUNICATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_043_HOW_TO_TALK_TO_CHILDREN_ABOUT_CANCER/studio2_mqqh0uoi_4b311f/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_009_PAIN_DIARY",
+      "title": "How Keeping a Pain Diary Can Improve Treatment",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CANCER_PAIN_EDUCATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_009_PAIN_DIARY/studio2_mqp71rfg_5129ff/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_014_SAFE_STORAGE_MEDICINES",
+      "title": "How to Store and Use Cancer Pain Medicines Safely",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CANCER_PAIN_MEDICATIONS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_014_SAFE_STORAGE_MEDICINES/studio2_mqq6a591_0a52f4/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_042_FEELING_LIKE_A_BURDEN",
+      "title": "I Feel Like a Burden: A Hidden Pain Many Patients Carry",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PSYCHO_ONCOLOGY_AND_CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_042_FEELING_LIKE_A_BURDEN/studio2_mqqgstw2_944b01/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_019_EMOTIONAL_SUPPORT",
+      "title": "It's Okay to Ask for Emotional Support During Cancer",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_019_EMOTIONAL_SUPPORT/studio2_mqq7dvf5_797d99/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_012_MANAGING_SIDE_EFFECTS",
+      "title": "Managing Side Effects of Cancer Pain Medicines",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CANCER_PAIN_MEDICATIONS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_012_MANAGING_SIDE_EFFECTS/studio2_mqq5unxd_4592ae/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_035_ORAL_MUCOSITIS_MOUTH_SORES",
+      "title": "Mouth Sores During Cancer Treatment: What You Need to Know",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "ORAL_CARE_AND_SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_035_ORAL_MUCOSITIS_MOUTH_SORES/studio2_mqqf75q5_100c71/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_036_NAUSEA_AND_VOMITING_IN_CANCER",
+      "title": "Nausea and Vomiting During Cancer Care: You Don't Have to Suffer",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_036_NAUSEA_AND_VOMITING_IN_CANCER/studio2_mqqff2xa_55b194/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_005_CANCER_PAIN_TYPES",
+      "title": "Not All Cancer Pain Is the Same",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CANCER_PAIN_EDUCATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_005_CANCER_PAIN_TYPES/studio2_mqp71r86_69c17c/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_001_MYTH_BUSTING",
+      "title": "Palliative Care Means Giving Up—Right?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PALLIATIVE_CARE_AWARENESS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_001_MYTH_BUSTING/studio2_mqp71r0k_843d30/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_003_PALLIATIVE_CARE_VS_HOSPICE",
+      "title": "Palliative Care vs Hospice: What's the Difference?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PALLIATIVE_CARE_AWARENESS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_003_PALLIATIVE_CARE_VS_HOSPICE/studio2_mqp71r4j_aa18df/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_016_PALLIATIVE_CARE_MYTHS",
+      "title": "Palliative Care: Common Myths and Facts",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PALLIATIVE_CARE_AWARENESS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_016_PALLIATIVE_CARE_MYTHS/studio2_mqq6q79g_351d1e/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_029_SCANXIETY_MANAGING_SCAN_STRESS",
+      "title": "Scanxiety: Why Scan Days Feel So Stressful",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_029_SCANXIETY_MANAGING_SCAN_STRESS/studio2_mqq9xacj_c4d05d/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_022_FAMILY_COMMUNICATION",
+      "title": "Talking About Cancer Within the Family",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FAMILY_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_022_FAMILY_COMMUNICATION/studio2_mqq81x60_6fb5db/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_046_THE_POWER_OF_LISTENING",
+      "title": "The Power of Listening: Sometimes Patients Don't Need Answers",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "COMMUNICATION_AND_EMOTIONAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_046_THE_POWER_OF_LISTENING/studio2_mqqhpdfg_761cad/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_024_MEANINGFUL_MOMENTS",
+      "title": "The Power of Small Meaningful Moments",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "QUALITY_OF_LIFE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_024_MEANINGFUL_MOMENTS/studio2_mqq8i4ld_cdb11e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_050_THE_REAL_GOAL_OF_PALLIATIVE_CARE",
+      "title": "The Real Goal of Palliative Care",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "PALLIATIVE_CARE_FOUNDATIONS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_050_THE_REAL_GOAL_OF_PALLIATIVE_CARE/studio2_mqqili1g_de4a8f/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_049_WHAT_DOES_A_GOOD_DAY_LOOK_LIKE",
+      "title": "What Does a Good Day Look Like?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "QUALITY_OF_LIFE_AND_GOAL_SETTING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_049_WHAT_DOES_A_GOOD_DAY_LOOK_LIKE/studio2_mqqidefl_ca5ff0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_011_BREAKTHROUGH_PAIN",
+      "title": "What Is Breakthrough Cancer Pain?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CANCER_PAIN_MEDICATIONS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_011_BREAKTHROUGH_PAIN/studio2_mqq5mw2n_16c8cd/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_002_EARLY_INTEGRATION",
+      "title": "When Should Palliative Care Start?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EARLY_PALLIATIVE_CARE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_002_EARLY_INTEGRATION/studio2_mqp71r2g_64198c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_021_WHEN_TO_CALL_YOUR_CARE_TEAM",
+      "title": "When Should You Call Your Cancer Care Team?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MONITORING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_021_WHEN_TO_CALL_YOUR_CARE_TEAM/studio2_mqq7tu8k_77f0b8/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_045_WHEN_THE_PATIENT_STOPS_TALKING",
+      "title": "When the Patient Stops Talking: Understanding Emotional Withdrawal",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "COMMUNICATION_AND_EMOTIONAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_045_WHEN_THE_PATIENT_STOPS_TALKING/studio2_mqqhhax7_49554e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_004_PALLIATIVE_CARE_TEAM",
+      "title": "Who Is Part of a Palliative Care Team?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MULTIDISCIPLINARY_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_004_PALLIATIVE_CARE_TEAM/studio2_mqp71r6f_8af581/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_020_ADVANCE_CARE_PLANNING",
+      "title": "Why Advance Care Planning Matters",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "ADVANCE_CARE_PLANNING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_020_ADVANCE_CARE_PLANNING/studio2_mqq7lwtf_f72b23/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_031_FATIGUE_IN_CANCER",
+      "title": "Why Am I So Tired? Understanding Cancer Fatigue",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_031_FATIGUE_IN_CANCER/studio2_mqqehkfv_4b881b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_018_ASKING_FOR_HELP",
+      "title": "Why Asking for Help Makes You a Better Caregiver",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_018_ASKING_FOR_HELP/studio2_mqq765ci_843a59/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_030_SLEEP_PROBLEMS_IN_CANCER",
+      "title": "Why Can't I Sleep? Sleep Problems During Cancer",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_030_SLEEP_PROBLEMS_IN_CANCER/studio2_mqq9oizc_250bf9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_033_TASTE_CHANGES_DURING_TREATMENT",
+      "title": "Why Does Food Taste Different During Cancer Treatment?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "NUTRITION_AND_SYMPTOM_MANAGEMENT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_033_TASTE_CHANGES_DURING_TREATMENT/studio2_mqqeq0hd_1f5812/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_006_PAIN_SCALE",
+      "title": "Why Does My Doctor Ask Me to Rate My Pain From 0 to 10?",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CANCER_PAIN_EDUCATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_006_PAIN_SCALE/studio2_mqp71ra3_ca28c8/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PALLIATIVE_CARE_025_LEGACY_AND_LIFE_STORIES",
+      "title": "Your Story Matters: The Power of Legacy and Life Stories",
+      "category": "palliative_care",
+      "categoryLabel": "Palliative Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "MEANING_AND_LEGACY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PALLIATIVE_CARE_025_LEGACY_AND_LIFE_STORIES/studio2_mqq8qew9_9f2657/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_042_ADVANCE_CARE_PLANNING",
+      "title": "Advance Care Planning: Why Talking About Future Wishes Can Bring Peace of Mind",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EXISTENTIAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_042_ADVANCE_CARE_PLANNING/studio2_mqnf3z39_672b9b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_018_ANTICIPATORY_GRIEF",
+      "title": "Anticipatory Grief: Why Families Start Grieving Before Loss Happens",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_018_ANTICIPATORY_GRIEF/studio2_mqg8w2cm_ee7c9e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_029_BODY_IMAGE",
+      "title": "Body Image Changes After Cancer: Learning to Accept Your New Self",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_029_BODY_IMAGE/studio2_mqlvk1j0_17aaf9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_009_CANCER_PAIN",
+      "title": "Cancer Pain Is Treatable: Don't Suffer in Silence",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_DISTRESS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_009_CANCER_PAIN/studio2_mqg18639_7ab6a0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_040_CANCER_PAIN_EMOTIONAL_SUFFERING",
+      "title": "Cancer Pain and Emotional Suffering: Why Managing Pain Is More Than Just Medicines",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_AND_EMOTIONAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_040_CANCER_PAIN_EMOTIONAL_SUFFERING/studio2_mqneo7pu_baba53/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_044_CAREGIVER_BURNOUT",
+      "title": "Caregiver Burnout: How to Recognize the Signs Before You Reach a Breaking Point",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_044_CAREGIVER_BURNOUT/studio2_mqnfkhft_cdf6dd/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_012_CAREGIVER_BURNOUT",
+      "title": "Caregiver Burnout: Why Caregivers Need Care Too",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_012_CAREGIVER_BURNOUT/studio2_mqnwwclb_f29ce9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_048_CELEBRATION_GUILT",
+      "title": "Celebration Guilt: Why Milestones and Remission Can Bring Mixed Emotions",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_048_CELEBRATION_GUILT/studio2_mqnggbf2_8c313b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_047_CHEMO_BRAIN",
+      "title": "Chemo Brain: Understanding Memory and Concentration Problems After Cancer Treatment",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "COGNITIVE_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_047_CHEMO_BRAIN/studio2_mqng8i96_e5b70a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_039_DEATH_ANXIETY",
+      "title": "Death Anxiety in Cancer: How Patients and Families Cope With the Fear of Dying",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EXISTENTIAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_039_DEATH_ANXIETY/studio2_mqneg9ml_a25992/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_008_FEAR_OF_RECURRENCE",
+      "title": "Fear of Recurrence: Why Survivors Worry That Cancer May Return",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_008_FEAR_OF_RECURRENCE/studio2_mqg0yvej_12b060/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_027_FEAR_OF_RECURRENCE",
+      "title": "Fear of Recurrence: Why Survivors Worry That Cancer Will Come Back",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_027_FEAR_OF_RECURRENCE/studio2_mqlv3el9_5ebfce/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_038_FINANCIAL_DISTRESS",
+      "title": "Financial Stress and Cancer: Coping With the Emotional Burden of Treatment Costs",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FINANCIAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_038_FINANCIAL_DISTRESS/studio2_mqne87nf_7d1ad4/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_050_FINDING_MEANING",
+      "title": "Finding Meaning After Cancer: How Survivors Redefine Purpose and Priorities",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_050_FINDING_MEANING/studio2_mqngwjki_5cb1ed/hi/final.mp4",
+      "languages": [
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_032_FINDING_MEANING",
+      "title": "Finding Meaning After Cancer: How Survivors Rediscover Purpose",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_032_FINDING_MEANING/studio2_mqncwexb_33dc78/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_017_FAMILY_ROLES",
+      "title": "How Cancer Changes Family Roles and Relationships",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FAMILY_COMMUNICATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_017_FAMILY_ROLES/studio2_mqg8medc_22b750/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_033_CAREGIVER_REBUILDING",
+      "title": "How Caregivers Rebuild Their Own Lives After Treatment Ends",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_033_CAREGIVER_REBUILDING/studio2_mqnd441v_ca2ee5/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_034_SIBLING_SUPPORT",
+      "title": "How Siblings of Cancer Patients Cope With Fear, Guilt, and Feeling Overlooked",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FAMILY_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_034_SIBLING_SUPPORT/studio2_mqndc7wq_02e362/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_036_TEENAGERS_PARENT_CANCER",
+      "title": "How Teenagers Cope Differently When a Parent Has Cancer",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FAMILY_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_036_TEENAGERS_PARENT_CANCER/studio2_mqndrw2n_6fa2e1/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_022_ASKING_FOR_HELP",
+      "title": "How to Ask for Help During Cancer Treatment Without Feeling Guilty",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SOCIAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_022_ASKING_FOR_HELP/studio2_mqlty10k_81344b/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_019_HOPE_AND_REALITY",
+      "title": "How to Balance Hope and Reality During Cancer Treatment",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EXISTENTIAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_019_HOPE_AND_REALITY/studio2_mqg95li2_12d3d9/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_005_UNCERTAINTY",
+      "title": "How to Cope with Uncertainty During Cancer Treatment",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_005_UNCERTAINTY/studio2_mqg06q25_87c8a2/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_043_PROGNOSIS_CONVERSATIONS",
+      "title": "How to Have Difficult Conversations About Prognosis Without Losing Hope",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "COMMUNICATION_AND_DECISION_MAKING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_043_PROGNOSIS_CONVERSATIONS/studio2_mqnfc81m_343b30/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_013_CAREGIVER_BALANCE",
+      "title": "How to Support a Loved One Without Losing Yourself",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_013_CAREGIVER_BALANCE/studio2_mqnx514k_48fa02/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_016_CHILDREN_AND_CANCER",
+      "title": "How to Talk to Children About a Parent's Cancer Diagnosis",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FAMILY_COMMUNICATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_016_CHILDREN_AND_CANCER/studio2_mqg8cjgj_89d617/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_035_CHILDREN_PARENT_CANCER",
+      "title": "How to Talk to Children About a Parent's Cancer Diagnosis",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FAMILY_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_035_CHILDREN_PARENT_CANCER/studio2_mqndjw7e_2b9204/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_015_BURDEN",
+      "title": "I Don't Want to Be a Burden: What Patients Really Mean",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EXISTENTIAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_015_BURDEN/studio2_mqg82662_86d80c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_001_DIAGNOSIS_EMOTIONAL_SHOCK",
+      "title": "I Have Cancer. What Happens to My Mind After Diagnosis?",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_001_DIAGNOSIS_EMOTIONAL_SHOCK/studio2_mqfz82lk_d028b6/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_030_INTIMACY_RELATIONSHIPS",
+      "title": "Intimacy and Relationships After Cancer: Talking About the Unspoken Changes",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "RELATIONSHIPS_AND_INTIMACY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_030_INTIMACY_RELATIONSHIPS/studio2_mqlvst2b_a01823/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_002_EMOTIONAL_NUMBNESS",
+      "title": "Is It Normal to Feel Numb After a Cancer Diagnosis?",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_002_EMOTIONAL_NUMBNESS/studio2_mqfzgqvz_8c503e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi",
+        "kn"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_031_LIVING_WITH_UNCERTAINTY",
+      "title": "Living With Uncertainty: How to Cope When There Are No Clear Answers",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_031_LIVING_WITH_UNCERTAINTY/studio2_mqncohjk_f42d7c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_010_MORPHINE_MYTHS",
+      "title": "Myths and Facts About Morphine: Does Strong Pain Medicine Mean the End Is Near?",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SYMPTOM_DISTRESS",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_010_MORPHINE_MYTHS/studio2_mqg1i32t_3963b8/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_041_PALLIATIVE_CARE_MYTHS",
+      "title": "Palliative Care Myths: Why Supportive Care Is Not the Same as Giving Up",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SUPPORTIVE_CARE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_041_PALLIATIVE_CARE_MYTHS/studio2_mqnew1kb_422ecf/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_046_RETURNING_TO_WORK",
+      "title": "Returning to Work After Cancer: Coping With Anxiety, Expectations, and a New Normal",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_046_RETURNING_TO_WORK/studio2_mqng0is1_f74336/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_025_RETURN_TO_WORK",
+      "title": "Returning to Work After Cancer: Managing Anxiety, Identity, and Expectations",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_025_RETURN_TO_WORK/studio2_mqlun694_f80ed7/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_049_SCANXIETY",
+      "title": "Scanxiety: Why Scan and Test Results Can Trigger Intense Anxiety",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_049_SCANXIETY/studio2_mqngocai_8d7ab0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_026_SCANXIETY",
+      "title": "Scanxiety: Why Waiting for Test Results Feels So Overwhelming",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_026_SCANXIETY/studio2_mqluv6v2_a41aca/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_028_SURVIVORS_GUILT",
+      "title": "Survivor's Guilt: Why Some Cancer Survivors Feel Guilty for Recovering",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SURVIVORSHIP",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_028_SURVIVORS_GUILT/studio2_mqlvbs7a_d62de5/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_004_FIRST_30_DAYS",
+      "title": "The First 30 Days After a Cancer Diagnosis: What to Expect Emotionally",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_004_FIRST_30_DAYS/studio2_mqfzy2tv_554874/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_011_FINANCIAL_STRESS",
+      "title": "The Hidden Cost of Cancer: How to Cope with Financial Stress",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FINANCIAL_TOXICITY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_011_FINANCIAL_STRESS/studio2_mqnkvuom_279036/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_007_SCANXIETY",
+      "title": "What Is Scanxiety and Why Does It Happen?",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FEAR_OF_RECURRENCE",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_007_SCANXIETY/studio2_mqg0oqw5_ccf562/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_020_COMMUNICATION",
+      "title": "What to Say—and What Not to Say—to Someone Living With Cancer",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SOCIAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_020_COMMUNICATION/studio2_mqg9fsqo_573807/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_014_ANGER_AND_IRRITABILITY",
+      "title": "When Cancer Patients Become Angry or Irritable: What Families Need to Understand",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "FAMILY_COMMUNICATION",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_014_ANGER_AND_IRRITABILITY/studio2_mqg79avv_2a521c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_021_TOXIC_POSITIVITY",
+      "title": "When Everyone Says 'Stay Positive': The Pressure of Toxic Positivity in Cancer Care",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_021_TOXIC_POSITIVITY/studio2_mqltpp6t_8cd453/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_045_SOCIAL_ISOLATION",
+      "title": "When Friends and Family Pull Away: Coping With Social Isolation During Cancer",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SOCIAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_045_SOCIAL_ISOLATION/studio2_mqnfsjlr_8df0f5/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_024_SOCIAL_WITHDRAWAL",
+      "title": "When Friends and Family Stop Calling: Understanding Social Withdrawal During Cancer",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SOCIAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_024_SOCIAL_WITHDRAWAL/studio2_mqluejan_1d426a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_037_PARENT_CAREGIVER",
+      "title": "When Parents Become Caregivers: Coping When Your Adult Child Has Cancer",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CAREGIVER_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_037_PARENT_CAREGIVER/studio2_mqne03j6_fc5d4a/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "CHARUCARE_PSYCHO_ONCOLOGY_001",
+      "title": "Why CharuCare Gives Special Importance to Psycho-Oncology",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "CHARUCARE_PLATFORM_STORY",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/CHARUCARE_PSYCHO_ONCOLOGY_001/studio2_mr0bosqj_919064/en/final.mp4",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_006_DEATH_ANXIETY",
+      "title": "Why Fear of Death Is Common After a Cancer Diagnosis",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EXISTENTIAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_006_DEATH_ANXIETY/studio2_mqg0fs8p_18388e/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_003_EMOTIONAL_ROLLERCOASTER",
+      "title": "Why Patients Experience an Emotional Roller Coaster During Cancer Treatment",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "EMOTIONAL_WELLBEING",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_003_EMOTIONAL_ROLLERCOASTER/studio2_mqfzpkun_1b9c0c/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_PSYCHO_ONCOLOGY_023_LONELINESS",
+      "title": "Why Patients and Caregivers Often Feel Lonely—Even When Surrounded by People",
+      "category": "psycho_oncology",
+      "categoryLabel": "Psycho-Oncology",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "SOCIAL_SUPPORT",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/supportive-care/reel-studio-v2/REEL_PSYCHO_ONCOLOGY_023_LONELINESS/studio2_mqlu6kbi_ce2ca0/en/final.mp4",
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "id": "REEL_SURV_010_BREAST",
+      "title": "Why Do Some People Handle Cancer Treatment Better?",
+      "category": "supportive_care",
+      "categoryLabel": "Supportive Care",
+      "domain": "supportive_care",
+      "domainLabel": "Supportive Care",
+      "section": "TRIAL",
+      "url": "https://media-reels.s3.us-east-1.amazonaws.com/gold-supportive-care/general/reels/REEL_SURV_010_BREAST/en/job_mpsln3xu_962300/REEL_SURV_010_BREAST_en.mp4",
+      "languages": [
+        "en"
+      ]
+    }
+  ]
+}
